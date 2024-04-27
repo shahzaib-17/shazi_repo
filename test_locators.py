@@ -32,3 +32,4 @@ class TestLocators(BaseClass):
                 break
 
         item.checkout_button().click()
+        print('shazi')
